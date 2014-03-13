@@ -1,0 +1,36 @@
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "9Gh-7u-AcI"; */
+"9Gh-7u-AcI.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "DcP-ux-hDI"; */
+"DcP-ux-hDI.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "K0q-ut-f5b"; */
+"K0q-ut-f5b.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "KFR-nK-M7o"; */
+"KFR-nK-M7o.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "Rgo-ob-paL"; */
+"Rgo-ob-paL.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "Vn8-7c-jXn"; */
+"Vn8-7c-jXn.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "Y46-61-GJb"; */
+"Y46-61-GJb.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "hJt-fD-bRw"; */
+"hJt-fD-bRw.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Play A Game"; ObjectID = "tDJ-1V-Ja7"; */
+"tDJ-1V-Ja7.normalTitle" = "Jouer à un jeu";
+
+/* Class = "IBUILabel"; text = "Sound"; ObjectID = "tur-H2-5K6"; */
+"tur-H2-5K6.text" = "Son";
+
+/* Class = "IBUILabel"; text = "Vs Computer"; ObjectID = "uzC-SD-QeS"; */
+"uzC-SD-QeS.text" = "vs ordinateur";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "w83-mO-sdT"; */
+"w83-mO-sdT.normalTitle" = "Bouton";

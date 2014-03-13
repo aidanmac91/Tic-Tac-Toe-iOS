@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Tic Tac Toe iOS
+
+  Created by Aidan on 27/02/2014.
+  Copyright (c) 2014 Aidan. All rights reserved.
+*/
+"COMPUTER_WON"="L'ordinateur vous battre";
+
+"NO_TWITTER"="Vous ne pouvez pas envoyer un tweet à l'heure actuelle, assurez-vous que votre appareil dispose d'une connexion Internet et que vous avez au moins une configuration d'un compte Twitter";
